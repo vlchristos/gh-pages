@@ -355,11 +355,6 @@ table {
   text-transform: none;
   line-height: 1; }
 
-/* line 23, ../scss/_typography.scss */
-html, body {
-  min-height: 100%;
-  height: 100%; }
-
 /* line 27, ../scss/_typography.scss */
 body {
   font-family: "Vollkorn", serif;
