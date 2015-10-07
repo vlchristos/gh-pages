@@ -325,14 +325,6 @@ table {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 30, ../scss/_layout.scss */
-.site-header {
-  padding-bottom: 5em; }
-  @media (max-width: 480px) {
-    /* line 30, ../scss/_layout.scss */
-    .site-header {
-      padding-bottom: 0; } }
-
 /* line 36, ../scss/_layout.scss */
 .wrapper {
   max-width: 50em;
@@ -404,11 +396,11 @@ p a {
     color: #999999; }
 
 /* line 58, ../scss/_typography.scss */
-.my-name {
+/*.my-name {
   text-transform: uppercase; }
-  @media (min-width: 480px) {
+  @media (min-width: 480px) {*/
     /* line 58, ../scss/_typography.scss */
-    .my-name {
+    /*.my-name {
       position: absolute;
       left: 0;
       top: -15px;
@@ -416,7 +408,7 @@ p a {
       line-height: 1;
       font-size: 4.250em;
       color: #f1f2f5;
-      z-index: 1; } }
+      z-index: 1; } }*/
 
 /* line 2, ../scss/_nav.scss */
 .mobile-nav a {
