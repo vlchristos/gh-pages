@@ -395,21 +395,6 @@ p a {
   p a:hover, p a:focus {
     color: #999999; }
 
-/* line 58, ../scss/_typography.scss */
-/*.my-name {
-  text-transform: uppercase; }
-  @media (min-width: 480px) {*/
-    /* line 58, ../scss/_typography.scss */
-    /*.my-name {
-      position: absolute;
-      left: 0;
-      top: -15px;
-      margin: 0;
-      line-height: 1;
-      font-size: 4.250em;
-      color: #f1f2f5;
-      z-index: 1; } }*/
-
 /* line 2, ../scss/_nav.scss */
 .mobile-nav a {
   display: block;
